@@ -1,0 +1,2 @@
+paddleMoveUnitsPerSecond,ballImpulseForce,ballLifetime,ballWaittime,standardBallScore,standardBallHit,bonusBallScore,bonusBallHit,maxSpawnTime,minSpawnTime,standardBallProb,bonusBallProb,freezerProb,speedupProb,freezeDuration,speedupDuration,speedupFactor,winningScore
+10,5,10,1,1,1,2,2,10,5,0.6,0.2,0.1,0.1,2,2,2,5
